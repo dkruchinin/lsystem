@@ -1,0 +1,9 @@
+{
+	"axiom": "F-F-F-F",
+	"iters": 2,
+	"angle": 90,
+	"rules": { 
+		"F": "F+FF-FF-F-F+F+FF-F-F+F+FF+FF-F"
+	}
+}
+

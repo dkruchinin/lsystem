@@ -1,0 +1,8 @@
+{
+	"iters": 5,
+	"angle": 25.7,
+	"axiom": "F",
+	"rules": {
+		"F": "F[+F]F[-F]F"
+	}
+}
